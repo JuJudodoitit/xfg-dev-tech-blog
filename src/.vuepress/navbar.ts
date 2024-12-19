@@ -17,10 +17,12 @@ export default navbar([
     text: "spring",
     icon: "book",
     link: "/md/spring/springboot/springboot.md",
-    children:{
-      text: "springboot",
-      link: "/md/spring/springboot/springboot.md",
-    },
+    children:[
+      {
+        text: "springboot",
+        link: "/md/spring/springboot/springboot.md",
+      }
+    ]
   },
   {
     text: "中间件",
