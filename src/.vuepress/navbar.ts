@@ -8,4 +8,9 @@ export default navbar([
     icon: "book",
     link: "/md/dev-log/day01.md",
   },
+  {
+    text: "博客",
+    icon: "book",
+    link: "/md/dev-log/blog.md",
+  },
 ]);

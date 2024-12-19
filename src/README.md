@@ -22,7 +22,7 @@ highlights:
     bgImage: /assets/bg/6-light.svg
     bgImageDark: /assets/bg/6-dark.svg
     features:
-      - title: 公众号111 - 抽奖系统
+      - title: 公众号 - 抽奖系统
         icon: comment-dots
         details: 23年1月，以DDD领域驱动设计架构，开发完成分布式抽奖系统。运用了全面的分布式技术栈。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/others.html#link-check
