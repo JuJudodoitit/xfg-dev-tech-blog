@@ -16,11 +16,14 @@ export default navbar([
   {
     text: "spring",
     icon: "book",
-    link: "/md/spring/springboot/springboot.md",
     children:[
       {
         text: "springboot",
         link: "/md/spring/springboot/springboot.md",
+      },
+      {
+        text: "springsecurity",
+        link: "/md/spring/springboot/springsecurity.md",
       }
     ]
   },
@@ -32,6 +35,6 @@ export default navbar([
   {
     text: "数据库",
     icon: "book",
-    link: "/md/database/blog.md",
+    link: "/md/database/mysql.md",
   },
 ]);
