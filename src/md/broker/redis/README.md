@@ -1,8 +1,6 @@
 ---
 title: redis
 icon: laptop-code
-article: false
-index: false
 category:
 - broker
 ---

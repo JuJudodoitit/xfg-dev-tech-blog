@@ -1,7 +1,6 @@
 ---
 title: redis配置
-icon: laptop-code
-index: false
+icon: laptop-code 
 order: 2
 category:
 - broker
