@@ -22,7 +22,10 @@ export default hopeTheme({
   navbar,
 
   // sidebar
-  sidebar,
+  sidebar: {
+    "/": false,
+    "/broker/": "structure"
+  },
 
   footer: "我的微信：fustack",
 
