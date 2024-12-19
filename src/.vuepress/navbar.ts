@@ -1,15 +1,15 @@
 import {navbar} from "vuepress-theme-hope";
 
 export default navbar([
-    "/md",
-    "/md/resume",
-    "/md/algo",
-    "/md/java",
+    "/",
+    "/resume",
+    "/algo",
+    "/java",
 
     {
         text: "spring",
         icon: "book",
-        prefix: "/md/spring/",
+        prefix: "/spring/",
         children: [
             {
                 text: "springboot",
@@ -24,7 +24,7 @@ export default navbar([
     {
         text: "中间件",
         icon: "book",
-        prefix: "/md/broker/",
+        prefix: "/broker/",
         children: [
             {
                 text: "kafka",
@@ -36,5 +36,5 @@ export default navbar([
             }
         ]
     },
-    "/md/database"
+    "/database"
 ]);

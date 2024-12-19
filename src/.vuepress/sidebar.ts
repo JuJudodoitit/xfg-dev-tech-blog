@@ -11,6 +11,6 @@ export default sidebar({
   //   },
   // ],
 
-  "/md/broker/redis": "structure",
-  "/md/broker/kafka": "structure",
+  "/broker/redis": "structure",
+  "/broker/kafka": "structure",
 });
