@@ -3,6 +3,6 @@ title: redis的安装
 icon: laptop-code
 index: false
 category:
-- redis
+- broker
 ---
 ## redis的安装

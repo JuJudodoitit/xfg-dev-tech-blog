@@ -3,7 +3,7 @@ title: redis配置
 icon: laptop-code
 index: false
 category:
-- redis
+- broker
 ---
 
 ## redis配置
