@@ -3,7 +3,7 @@ import theme from "./theme.js";
 
 export default defineUserConfig({
   dest: "./nginx/html",
-  base: "/md/",
+  base: "/",
 
   lang: "zh-CN",
   title: "我的简历",
