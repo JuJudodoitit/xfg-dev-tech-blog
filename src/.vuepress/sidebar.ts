@@ -13,6 +13,7 @@ export default sidebar({
       text: "中间件",
       icon: "laptop-code",
       prefix: "md/broker/",
+      children: ['kafka.md', 'redis.md']
     },
   ],
 });
