@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar: {
     "/": false,
-    "/broker/": "structure"
+    "/broker/kafka/": "structure"
   },
 
   footer: "我的微信：fustack",
