@@ -30,14 +30,15 @@ export default navbar([
   {
     text: "中间件",
     icon: "book",
+    prefix: "/md/broker/",
     children:[
       {
         text: "kafka",
-        link: "/md/broker/kafka/",
+        link: "kafka/kafka.md",
       },
       {
         text: "redis",
-        link: "/md/broker/redis/",
+        link: "redis/redis.md",
       }
     ]
   },
