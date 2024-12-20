@@ -4,4 +4,12 @@ export default sidebar({
     "/algo/": "structure",
     "/broker/redis": "structure",
     "/broker/kafka": "structure",
+    "/database/": "structure",
+    "/java/": [
+        "",
+        "javase",
+        "java8",
+        "jvm",
+        "juc"
+    ],
 });
