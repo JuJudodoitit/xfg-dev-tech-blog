@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  logo: "/horse.svg",
 
   repo: "fuzhengwei/xfg-resume-blog",
 

@@ -6,8 +6,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "我的简历",
-  description: "关于我自己的学习成长经历",
+  title: "leo的码路",
+  description: "关于我编程过程中的学习成长的记录",
 
   theme,
 
