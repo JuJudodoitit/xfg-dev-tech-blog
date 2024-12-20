@@ -9,7 +9,7 @@ export default navbar([
     "/java",
 
     {
-        text: "spring",
+        text: "框架",
         icon: "book",
         prefix: "/framework/",
         children: [
