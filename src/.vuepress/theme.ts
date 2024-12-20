@@ -9,11 +9,12 @@ export default hopeTheme({
     name: "leo",
     url: "https://mister-hope.com",
   },
-  headerDepth: 3,
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/horse.svg",
+
+  favicon: "/horse.svg",
 
   repo: "fuzhengwei/xfg-resume-blog",
 
