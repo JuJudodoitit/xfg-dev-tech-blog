@@ -11,15 +11,19 @@ export default navbar([
     {
         text: "spring",
         icon: "book",
-        prefix: "/spring/",
+        prefix: "/framework/",
         children: [
             {
-                text: "springboot",
-                link: "springboot/",
+                text: "spring",
+                link: "spring/",
             },
             {
-                text: "springsecurity",
-                link: "springsecurity/",
+                text: "mybatis",
+                link: "mybatis/",
+            },
+            {
+                text: "netty",
+                link: "netty/",
             }
         ]
     },
