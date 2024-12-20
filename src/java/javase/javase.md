@@ -1,4 +1,9 @@
-# JAVA基础语法
+---
+title: JAVA基础语法
+icon: laptop-code
+category:
+- java
+---
 
 ## 变量
 ## 循环控制
