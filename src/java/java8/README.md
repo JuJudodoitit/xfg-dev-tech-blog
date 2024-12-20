@@ -1,6 +1,6 @@
 ---
 title: JAVA8新特性
-icon: 8
+icon: circle-up
 index: false
 category:
 - java
