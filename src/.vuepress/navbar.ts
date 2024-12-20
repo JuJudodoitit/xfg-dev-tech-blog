@@ -45,7 +45,7 @@ export default navbar([
     "/database",
     {
         text: "开发工具",
-        icon: "book",
+        icon: "briefcase",
         prefix: "/developmenttools/",
         children: [
             {
