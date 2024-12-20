@@ -2,8 +2,10 @@ import {navbar} from "vuepress-theme-hope";
 
 export default navbar([
     "/",
-    "/resume",
     "/algo",
+    "/network",
+    "/os",
+    "/linux",
     "/java",
 
     {
@@ -36,5 +38,28 @@ export default navbar([
             }
         ]
     },
-    "/database"
+    "/database",
+    {
+        text: "开发工具",
+        icon: "book",
+        prefix: "/developmenttools/",
+        children: [
+            {
+                text: "idea",
+                link: "idea/",
+            },
+            {
+                text: "git",
+                link: "git/",
+            },
+            {
+                text: "maven",
+                link: "maven/",
+            },
+            {
+                text: "docker",
+                link: "docker/",
+            }
+        ]
+    }
 ]);

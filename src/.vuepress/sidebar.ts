@@ -6,4 +6,9 @@ export default sidebar({
     "/broker/kafka/": "structure",
     "/database/": "structure",
     "/java/": "structure",
+    "/spring/": "structure",
+    "/linux/": "structure",
+    "/network/": "structure",
+    "/os/": "structure",
+    "/developmenttoos/": "structure",
 });
