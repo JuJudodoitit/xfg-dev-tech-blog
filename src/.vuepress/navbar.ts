@@ -15,14 +15,17 @@ export default navbar([
         children: [
             {
                 text: "spring",
+                icon: "splotch",
                 link: "spring/",
             },
             {
                 text: "mybatis",
+                icon: "spa",
                 link: "mybatis/",
             },
             {
                 text: "netty",
+                icon: "signs-post",
                 link: "netty/",
             }
         ]
@@ -34,10 +37,12 @@ export default navbar([
         children: [
             {
                 text: "kafka",
+                icon: "bowling-ball",
                 link: "kafka/",
             },
             {
                 text: "redis",
+                icon: "registered",
                 link: "redis/",
             }
         ]
@@ -50,18 +55,22 @@ export default navbar([
         children: [
             {
                 text: "idea",
+                icon: "lightbulb",
                 link: "idea/",
             },
             {
                 text: "git",
+                icon: "gauge-simple",
                 link: "git/",
             },
             {
                 text: "maven",
+                icon: "cubes",
                 link: "maven/",
             },
             {
                 text: "docker",
+                icon: "egg",
                 link: "docker/",
             }
         ]
