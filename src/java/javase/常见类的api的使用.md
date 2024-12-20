@@ -21,3 +21,11 @@ category:
 ### computeIfAbsent();
 ### computeIfPresent();
 ### putAll();
+
+```java
+                if(charMap.containsKey(c)){
+                    charMap.put(c, Math.max(len, charMap.get(c)));
+                }else {
+                    charMap.put(c, len);
+                }
+```
