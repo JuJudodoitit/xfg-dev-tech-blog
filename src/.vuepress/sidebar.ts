@@ -1,16 +1,7 @@
-import { sidebar } from "vuepress-theme-hope";
+import {sidebar} from "vuepress-theme-hope";
 
 export default sidebar({
-  // "/md/": [
-  //   "",
-  //   {
-  //     text: "中间件",
-  //     icon: "book",
-  //     prefix: "broker/",
-  //     children: ["kafka/", "redis/"],
-  //   },
-  // ],
-
-  "/broker/redis": "structure",
-  "/broker/kafka": "structure",
+    "/algo/": "structure",
+    "/broker/redis": "structure",
+    "/broker/kafka": "structure",
 });
