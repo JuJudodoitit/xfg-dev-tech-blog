@@ -1,5 +1,5 @@
 ---
-title: 数据库
+title: JAVA
 icon: laptop-code
 collapsible: true
 expanded: true
