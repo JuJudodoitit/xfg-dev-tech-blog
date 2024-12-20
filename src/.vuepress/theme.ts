@@ -9,7 +9,7 @@ export default hopeTheme({
     name: "leo",
     url: "https://mister-hope.com",
   },
-  headerDepth: 2,
+  headerDepth: 3,
 
   iconAssets: "fontawesome-with-brands",
 
