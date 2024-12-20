@@ -1,6 +1,6 @@
 ---
 title: idea
-icon: laptop-code
+icon: lightbulb
 order: 1
 category:
 - developemnt tool

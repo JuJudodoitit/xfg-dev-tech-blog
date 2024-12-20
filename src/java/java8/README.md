@@ -1,6 +1,6 @@
 ---
 title: JAVA8新特性
-icon: laptop-code
+icon: 8
 index: false
 category:
 - java

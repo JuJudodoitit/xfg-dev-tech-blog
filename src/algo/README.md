@@ -1,6 +1,6 @@
 ---
 title: 数据结构与算法
-icon: laptop-code
+icon: square-binary
 category:
 - 数据结构与算法
 ---

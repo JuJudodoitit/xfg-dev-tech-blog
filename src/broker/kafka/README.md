@@ -1,3 +1,9 @@
+---
+title: kafka
+icon: kaggle
+category:
+- broker
+---
 # kafka
 
 # kafka的安装

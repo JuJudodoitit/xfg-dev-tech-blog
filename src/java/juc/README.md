@@ -1,6 +1,6 @@
 ---
 title: JAVA并发编程
-icon: laptop-code
+icon: hanukiah
 category:
 - java
 - juc

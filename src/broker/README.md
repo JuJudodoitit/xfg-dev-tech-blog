@@ -1,6 +1,6 @@
 ---
 title: 中间件
-icon: laptop-code
+icon: vest
 ---
 
 - [kafka](./kafka/README.md)

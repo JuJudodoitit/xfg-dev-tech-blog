@@ -1,6 +1,6 @@
 ---
 title: redis
-icon: laptop-code
+icon: registered
 category:
 - broker
 ---

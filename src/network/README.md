@@ -1,6 +1,6 @@
 ---
 title: 计算机网络
-icon: laptop-code
+icon: network-wired
 category:
 - 计算机网络
 ---

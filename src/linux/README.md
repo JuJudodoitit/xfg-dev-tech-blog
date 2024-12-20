@@ -1,6 +1,6 @@
 ---
 title: Linux
-icon: laptop-code
+icon: linux
 category:
 - linux
 ---

@@ -1,6 +1,6 @@
 ---
 title: 开发工具
-icon: laptop-code
+icon: briefcase
 ---
 
 - [idea](./idea/README.md)

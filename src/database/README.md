@@ -1,6 +1,6 @@
 ---
 title: 数据库
-icon: laptop-code
+icon: database
 category:
 - database
 ---

@@ -1,6 +1,6 @@
 ---
 title: docker
-icon: laptop-code
+icon: docker
 order: 4
 category:
 - developemnt tool

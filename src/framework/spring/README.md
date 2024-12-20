@@ -1,6 +1,6 @@
 ---
 title: spring
-icon: laptop-code
+icon: pagelines
 ---
 
 - [springboot](./springboot/README.md)

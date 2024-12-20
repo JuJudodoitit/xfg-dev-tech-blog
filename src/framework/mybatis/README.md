@@ -1,6 +1,6 @@
 ---
 title: mybatis
-icon: laptop-code
+icon: spa
 ---
 
 ## mybatis介绍

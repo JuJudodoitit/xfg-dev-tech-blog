@@ -1,6 +1,6 @@
 ---
 title: maven
-icon: laptop-code
+icon: magento
 order: 3
 category:
 - developemnt tool

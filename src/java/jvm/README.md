@@ -1,6 +1,6 @@
 ---
 title: JVM深入剖析
-icon: laptop-code
+icon: jar
 category:
 - java
 - jvm

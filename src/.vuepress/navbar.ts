@@ -10,7 +10,6 @@ export default navbar([
 
     {
         text: "框架",
-        icon: "book",
         prefix: "/framework/",
         children: [
             {
@@ -29,7 +28,6 @@ export default navbar([
     },
     {
         text: "中间件",
-        icon: "book",
         prefix: "/broker/",
         children: [
             {
@@ -45,7 +43,6 @@ export default navbar([
     "/database",
     {
         text: "开发工具",
-        icon: "briefcase",
         prefix: "/developmenttools/",
         children: [
             {

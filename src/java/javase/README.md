@@ -1,6 +1,6 @@
 ---
 title: JAVA基础语法
-icon: laptop-code
+icon: circle-dot
 category:
 - java
 ---

@@ -1,6 +1,6 @@
 ---
 title: JAVA
-icon: laptop-code
+icon: java
 index: false
 category:
 - java

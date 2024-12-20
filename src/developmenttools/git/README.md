@@ -1,6 +1,6 @@
 ---
 title: git
-icon: laptop-code
+icon: git
 order: 2
 category:
 - developemnt tool
