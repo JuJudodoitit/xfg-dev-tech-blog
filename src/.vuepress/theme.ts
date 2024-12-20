@@ -12,9 +12,9 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/horse_blue.svg",
+  logo: "/write.svg",
 
-  favicon: "/horse_blue.svg",
+  favicon: "/write.svg",
 
   repo: "fuzhengwei/xfg-resume-blog",
 
