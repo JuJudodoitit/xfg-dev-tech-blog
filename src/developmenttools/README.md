@@ -1,6 +1,6 @@
 ---
 title: 开发工具
-icon: briefcase
+icon: hand-back-first
 ---
 
 - [idea](./idea/README.md)

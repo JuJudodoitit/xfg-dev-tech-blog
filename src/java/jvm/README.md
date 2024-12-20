@@ -1,6 +1,6 @@
 ---
 title: JVM深入剖析
-icon: jar
+icon: location-pin
 category:
 - java
 - jvm

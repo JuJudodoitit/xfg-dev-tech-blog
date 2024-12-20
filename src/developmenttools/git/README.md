@@ -1,6 +1,6 @@
 ---
 title: git
-icon: git
+icon: gauge-simple
 order: 2
 category:
 - developemnt tool

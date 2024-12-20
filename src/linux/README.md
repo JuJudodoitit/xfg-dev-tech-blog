@@ -1,6 +1,6 @@
 ---
 title: Linux
-icon: linux
+icon: robot
 category:
 - linux
 ---

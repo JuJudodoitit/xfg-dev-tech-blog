@@ -1,6 +1,6 @@
 ---
 title: 中间件
-icon: vest
+icon: person-shelter
 ---
 
 - [kafka](./kafka/README.md)

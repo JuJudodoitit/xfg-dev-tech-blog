@@ -1,6 +1,6 @@
 ---
 title: 操作系统
-icon: laptop-code
+icon: desktop
 category:
 - 操作系统
 ---

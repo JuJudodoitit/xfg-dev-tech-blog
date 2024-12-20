@@ -1,6 +1,6 @@
 ---
 title: maven
-icon: magento
+icon: cubes
 order: 3
 category:
 - developemnt tool

@@ -1,6 +1,6 @@
 ---
 title: JAVA
-icon: java
+icon: mug-saucer
 index: false
 category:
 - java

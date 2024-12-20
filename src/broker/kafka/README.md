@@ -1,6 +1,6 @@
 ---
 title: kafka
-icon: kaggle
+icon: bowling-ball
 category:
 - broker
 ---

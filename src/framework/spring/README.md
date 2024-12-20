@@ -1,6 +1,6 @@
 ---
 title: spring
-icon: pagelines
+icon: splotch
 ---
 
 - [springboot](./springboot/README.md)
