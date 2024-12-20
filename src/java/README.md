@@ -1,8 +1,7 @@
 ---
 title: JAVA
 icon: laptop-code
-collapsible: true
-expanded: true
+index: false
 category:
 - java
 ---
