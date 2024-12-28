@@ -30,6 +30,20 @@ category:
                 }
 ```
 
+
+
+## List
+
+### set(index,element);
+
+### remove(index);
+
+
+
+
+
+
+
 ::: tip
 这是一个提示示例
 :::
