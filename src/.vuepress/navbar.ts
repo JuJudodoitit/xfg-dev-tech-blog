@@ -7,6 +7,7 @@ export default navbar([
     "/os",
     "/linux",
     "/java",
+    "/k8s",
 
     {
         text: "框架",
