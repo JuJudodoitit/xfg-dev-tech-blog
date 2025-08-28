@@ -9,6 +9,8 @@ export default sidebar({
     "/k8s/": "structure",
     "/framework/": "structure",
     "/linux/": "structure",
+    "/linux/nvim/": "structure",
+    "/linux/lua/": "structure",
     "/network/": "structure",
     "/os/": "structure",
     "/developmenttoos/": "structure",
